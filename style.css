@@ -57,11 +57,13 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightSalmon, tomato) ;
     border-image-slice: 1;
+    padding-right: 25px;
 }
 #babyWeb{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan) ;
     border-image-slice: 1;
+    padding-right: 25px;
 }
 
 footer p{
