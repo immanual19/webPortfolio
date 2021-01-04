@@ -68,3 +68,6 @@ footer p{
     text-align: center;
     font-size: 12px;
 }
+.description{
+    text-align: justify;
+}
